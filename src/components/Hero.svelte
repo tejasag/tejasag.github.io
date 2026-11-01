@@ -66,7 +66,7 @@
 			</p>
 			<p class="mt-paragraph">
 				Besides this, I enjoy discussing governance, financial markets, and
-				cognitive science. I'm also learning 中文.
+				behavioral sciences. I'm also learning 中文.
 			</p>
 			<p class="mt-paragraph mb-1">Currently:</p>
 			<ul class="bio-list">
